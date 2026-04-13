@@ -92,7 +92,7 @@ Create a tweet on Twitter/X announcing your project submission:
 2. **Tag required accounts**: 
    - @ConfluxDevs
    - @ConfluxNetwork
-3. **Include relevant hashtags**: #ConfluxHackathon #CodeWithoutBorders (or relevant hackathon hashtags)
+3. **Include relevant hashtags**: #ConfluxHackathon #globalhackfest26
 4. **Share project highlights**: Brief description, demo link, and what makes it unique
 5. **Include link to your project**: GitHub repository or live demo URL
 
@@ -104,7 +104,7 @@ Create a tweet on Twitter/X announcing your project submission:
 
 🔗 [Demo/Repo Link]
 
-@ConfluxDevs @ConfluxNetwork #ConfluxHackathon
+@ConfluxDevs @ConfluxNetwork #globalhackfest26
 ```
 
 ### Step 5: Create Submission PR
