@@ -31,7 +31,7 @@ Fill these in before submitting the PR to `conflux-fans/global-hackfest-2026`.
 | Item | URL |
 | --- | --- |
 | Social post — Twitter / X | https://x.com/i/status/2046373464873803780 |
-| Electric Capital PR | `https://github.com/electric-capital/open-dev-data/pull/...` _(fill in after opening)_ |
+| Electric Capital PR | https://github.com/electric-capital/open-dev-data/pull/2853 |
 | Grant proposal on Conflux Forum (optional, +5 pts) | `https://forum.conflux.fun/t/...` _(optional)_ |
 
 ## Partner integrations

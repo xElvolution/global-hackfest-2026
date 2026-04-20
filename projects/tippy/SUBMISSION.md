@@ -17,6 +17,7 @@ https://github.com/conflux-fans/global-hackfest-2026. Fill in every placeholder.
 - **Demo Video**: https://youtu.be/wgjAIGD4dMY _(3–5 min)_
 - **Participant Intro Video**: https://youtube.com/shorts/R0P2rQxx7j8 _(30–60 s, required)_
 - **Social Media Post**: https://x.com/i/status/2046373464873803780
+- **Electric Capital PR**: https://github.com/electric-capital/open-dev-data/pull/2853
 - **Project Website**: https://tippy-fun.vercel.app
 
 ## Technical Details
@@ -54,5 +55,5 @@ https://github.com/conflux-fans/global-hackfest-2026. Fill in every placeholder.
 - [x] Code includes proper documentation
 - [x] License file included (MIT)
 - [x] Project integrates meaningfully with Conflux
-- [x] Electric Capital PR created to add project to Conflux ecosystem — _link in `links.md`_
+- [x] Electric Capital PR created to add project to Conflux ecosystem — https://github.com/electric-capital/open-dev-data/pull/2853
 - [x] Social media post published tagging @ConfluxDevs and @ConfluxNetwork — https://x.com/i/status/2046373464873803780
