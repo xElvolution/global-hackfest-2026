@@ -65,12 +65,13 @@ Both modes share the same AI pipeline, the same on-chain audit surface, and the 
 
 | Artifact | Value |
 | --- | --- |
-| `TippyMaker` contract (eSpace testnet) | `0x…` _(fill in after `pnpm -C contracts deploy:testnet`)_ |
-| Deployment tx | `0x…` |
-| `TestERC20` (USDT0 mock) | `0x…` |
-| `TestERC20` (AxCNH mock) | `0x…` |
-| Live frontend | `https://tippy-fun.vercel.app`  |
-| Contract verification | `https://evmtestnet.confluxscan.io/address/0x…` |
+| Network | Conflux eSpace testnet (chainId `71`) |
+| Deployer | [`0x6E6Aa0AcC394666F38f0C90656eC31e63443D179`](https://evmtestnet.confluxscan.io/address/0x6E6Aa0AcC394666F38f0C90656eC31e63443D179) |
+| `TippyMaker` contract | [`0x4874b94074a16dA564766D25beC3251C0156265d`](https://evmtestnet.confluxscan.io/address/0x4874b94074a16dA564766D25beC3251C0156265d) |
+| Deployment tx | [`0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5`](https://evmtestnet.confluxscan.io/tx/0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5) |
+| `TestERC20` — tUSDT0 (USDT0 mock) | [`0x9a70e007447Fe6d787518Dc7E84DC39A4A302Bea`](https://evmtestnet.confluxscan.io/address/0x9a70e007447Fe6d787518Dc7E84DC39A4A302Bea) |
+| `TestERC20` — tAxCNH (AxCNH mock) | [`0x1A8678833C4b2A849F0edE21964A14D29c18B49a`](https://evmtestnet.confluxscan.io/address/0x1A8678833C4b2A849F0edE21964A14D29c18B49a) |
+| Live frontend | `https://tippy-fun.vercel.app` _(fill in after Vercel deploy)_ |
 
 Exact values are also written to `contracts/deployments/confluxEspaceTestnet.json` and
 printed by the deploy script.

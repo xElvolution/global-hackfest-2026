@@ -17,14 +17,22 @@ Fill these in before submitting the PR to `conflux-fans/global-hackfest-2026`.
 | Artifact | Value |
 | --- | --- |
 | Network | Conflux eSpace testnet (chainId `71`) |
-| `TippyMaker` address | `0x...` |
-| `TippyMaker` deploy tx | `0x...` |
-| `TestERC20` (USDT0 mock) | `0x...` |
-| `TestERC20` (AxCNH mock) | `0x...` |
-| ConfluxScan (contract) | `https://evmtestnet.confluxscan.io/address/0x...` |
+| Deployer address | `0x6E6Aa0AcC394666F38f0C90656eC31e63443D179` |
+| `TippyMaker` address | `0x4874b94074a16dA564766D25beC3251C0156265d` |
+| `TippyMaker` deploy tx | `0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5` |
+| `TestERC20` tUSDT0 (USDT0 mock) | `0x9a70e007447Fe6d787518Dc7E84DC39A4A302Bea` |
+| `TestERC20` tAxCNH (AxCNH mock) | `0x1A8678833C4b2A849F0edE21964A14D29c18B49a` |
+| ConfluxScan — contract | https://evmtestnet.confluxscan.io/address/0x4874b94074a16dA564766D25beC3251C0156265d |
+| ConfluxScan — deploy tx | https://evmtestnet.confluxscan.io/tx/0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5 |
 | Deployment JSON | [`contracts/deployments/confluxEspaceTestnet.json`](../../contracts/deployments/confluxEspaceTestnet.json) |
 
+## Ecosystem-required links
 
+| Item | URL |
+| --- | --- |
+| Social post — Twitter / X | https://x.com/i/status/2046373464873803780 |
+| Electric Capital PR | `https://github.com/electric-capital/open-dev-data/pull/...` _(fill in after opening)_ |
+| Grant proposal on Conflux Forum (optional, +5 pts) | `https://forum.conflux.fun/t/...` _(optional)_ |
 
 ## Partner integrations
 
@@ -34,19 +42,7 @@ Fill these in before submitting the PR to `conflux-fans/global-hackfest-2026`.
 | OpenAI | Three-judge panel + AI arbiter. Verdict hash anchored on-chain via `settleWinners` / `payTip`. |
 | Supabase | Off-chain storage for submissions, AI verdicts, and an event-indexed campaign cache. RLS on every table; writes go through the service-role key from server-only routes. |
 
-## Tweet template
+## Social post — published
 
-```
-🚀 Submitting Tippy.Fun for Global Hackfest 2026!
-
-Non-custodial bounty + always-on tipping launchpad on Conflux eSpace.
-AI judges (OpenAI x3 + arbiter) score submissions, verdict hash lives on-chain,
-rewards pay out in CFX / USDT0 / AxCNH — claim-based OR auto-pay.
-
-Repo: https://github.com/xElvolution/tippy.fun
-Demo: https://tippy-fun.vercel.app
-
-@ConfluxDevs @ConfluxNetwork #globalhackfest26 #ConfluxHackathon
-```
-
-```
+Live tweet: **https://x.com/i/status/2046373464873803780**
+(drafts for replies / reposts live in [`social.md`](./social.md))

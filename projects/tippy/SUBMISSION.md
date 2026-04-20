@@ -16,14 +16,17 @@ https://github.com/conflux-fans/global-hackfest-2026. Fill in every placeholder.
 - **Live Demo**: https://tippy-fun.vercel.app
 - **Demo Video**: https://youtu.be/wgjAIGD4dMY _(3–5 min)_
 - **Participant Intro Video**: https://youtube.com/shorts/R0P2rQxx7j8 _(30–60 s, required)_
+- **Social Media Post**: https://x.com/i/status/2046373464873803780
 - **Project Website**: https://tippy-fun.vercel.app
 
 ## Technical Details
 - **Conflux Network**: eSpace (testnet — chainId 71; mainnet-ready)
-- **Contract Addresses**:
-  - `TippyMaker` — `0x...` on Conflux eSpace testnet
-  - `TestERC20` (USDT0 mock) — `0x...`
-  - `TestERC20` (AxCNH mock) — `0x...`
+- **Contract Addresses** (Conflux eSpace testnet, chainId 71):
+  - `TippyMaker` — `0x4874b94074a16dA564766D25beC3251C0156265d` ([ConfluxScan](https://evmtestnet.confluxscan.io/address/0x4874b94074a16dA564766D25beC3251C0156265d))
+  - Deploy tx — `0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5` ([ConfluxScan](https://evmtestnet.confluxscan.io/tx/0x9beb1bf8d218d81f63cd5e1ecf240333cdd72eb053b90bd513f69fa01aa7ccf5))
+  - `TestERC20` tUSDT0 (USDT0 mock) — `0x9a70e007447Fe6d787518Dc7E84DC39A4A302Bea`
+  - `TestERC20` tAxCNH (AxCNH mock) — `0x1A8678833C4b2A849F0edE21964A14D29c18B49a`
+  - Deployer — `0x6E6Aa0AcC394666F38f0C90656eC31e63443D179`
 - **Partner Integrations**:
   - **Privy** — email / Google / Twitter / wallet connect + embedded wallets; server-side
     access-token verification on every protected API route.
@@ -46,10 +49,10 @@ https://github.com/conflux-fans/global-hackfest-2026. Fill in every placeholder.
 - [x] GitHub repository is public and complete
 - [x] Added to /projects/ folder with PR submitted
 - [x] README follows provided template (includes go-to-market plan in `docs/go-to-market.md`)
-- [ ] Demo video uploaded (≤ 5 minutes) — _upload and paste link_
+- [x] Demo video uploaded (≤ 5 minutes) — _upload and paste link_
 - [x] All team members listed (up to 5)
 - [x] Code includes proper documentation
 - [x] License file included (MIT)
 - [x] Project integrates meaningfully with Conflux
-- [ ] Electric Capital PR created to add project to Conflux ecosystem — _link in `links.md`_
-- [ ] Social media post published tagging @ConfluxDevs and @ConfluxNetwork — _link in `links.md`_
+- [x] Electric Capital PR created to add project to Conflux ecosystem — _link in `links.md`_
+- [x] Social media post published tagging @ConfluxDevs and @ConfluxNetwork — https://x.com/i/status/2046373464873803780
